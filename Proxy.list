@@ -89,7 +89,3 @@ DOMAIN-SUFFIX,yousician.net
 DOMAIN-SUFFIX,laravel.cloud
 DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,cloudflare.com
-IP-CIDR,3.163.125.8/443,no-resolve
-IP-CIDR,3.163.125.29/443,no-resolve
-IP-CIDR,3.163.125.45/443,no-resolve
-IP-CIDR,3.163.125.91/443,no-resolve
